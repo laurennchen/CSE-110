@@ -14,7 +14,7 @@ git push
 git pull
 ```
 ## My Hobbies & Extra Info About Me
-Some of my hobbies include playing soccer, guitar, and taking [my dog](IMG_4572.jpg) on walks. I also enjoy baking; last month I made a lemon poppyseed cake using [this recipe](https://thecakeblog.com/2018/02/lemon-poppyseed-cake.html), and it was delicious. [homemade lemon poppyseed cake](SIX_E3126632-F1DC-468B-9D3A-0A5C2A933A6B.jpg) Recently, I learned how to surf, so I have enjoyed spending a lot of time at the beach.
+Some of my hobbies include playing soccer, guitar, and taking [my dog](IMG_4572.jpg) on walks. I also enjoy baking; last month I made a [lemon poppyseed cake](SIX_E3126632-F1DC-468B-9D3A-0A5C2A933A6B.jpg) using [this recipe](https://thecakeblog.com/2018/02/lemon-poppyseed-cake.html), and it was delicious. Recently, I learned how to surf, so I have enjoyed spending a lot of time at the beach.
 
 This quarter, the classes I am taking include:
 - CSE 110
