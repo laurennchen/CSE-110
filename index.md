@@ -1,6 +1,6 @@
 # Lauren's User Page
 
-**Hi!** My name is Lauren & I am currently a third year Computer Science major. 
+**Hi!** My name is Lauren Chen & I am currently a third year Computer Science major. 
 
 I love living in La Jolla! It's so pretty here :sneezing_face: :brown_heart:
 
