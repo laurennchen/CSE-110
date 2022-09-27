@@ -4,9 +4,9 @@
 
 I love living in La Jolla! It's so pretty here :sneezing_face: :brown_heart:
 
-![](sunset.jpg) 
+![](user-page-images/sunset.jpg) 
 
-![](IMG_0309.jpg)
+![](user-page-images/IMG_0309.jpg)
 
 ## My Summer Internship
 This past summer, I worked at Northrop Grumman as a *Software Engineer Intern*, and I created unit tests for one of their programs called BACN. This program 
@@ -22,7 +22,7 @@ git push
 git pull
 ```
 ## My Hobbies & Extra Info About Me
-Some of my hobbies include playing soccer, guitar, and taking [my dog](mars.jpg) on walks. I also enjoy baking; last month I made a [lemon poppyseed cake](SIX_E3126632-F1DC-468B-9D3A-0A5C2A933A6B.png) using [this recipe](https://thecakeblog.com/2018/02/lemon-poppyseed-cake.html), and it was delicious. Recently, I learned how to surf, so I have enjoyed spending a lot of time at the beach. :surfing_woman: :ocean:
+Some of my hobbies include playing soccer, guitar, and taking [my dog](user-page-images/mars.jpg) on walks. I also enjoy baking; last month I made a [lemon poppyseed cake](user-page-images/SIX_E3126632-F1DC-468B-9D3A-0A5C2A933A6B.png) using [this recipe](https://thecakeblog.com/2018/02/lemon-poppyseed-cake.html), and it was delicious. Recently, I learned how to surf, so I have enjoyed spending a lot of time at the beach. :surfing_woman: :ocean:
 
 This quarter, the classes I am taking include:
 - CSE 110
