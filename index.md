@@ -3,6 +3,7 @@
 **Hi!** My name is Lauren & I am currently a third year Computer Science major. 
 
 I love living in La Jolla! 
+
 ![](sunset.jpg) ![](IMG_0309.jpg)
 
 ## My Summer Internship
