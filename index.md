@@ -2,7 +2,7 @@
 
 **Hi!** My name is Lauren & I am currently a third year Computer Science major. 
 
-I love living in La Jolla! It's so pretty here :sneezing_face:
+I love living in La Jolla! It's so pretty here :sneezing_face: :brown_heart:
 
 ![](sunset.jpg) ![](IMG_0309.jpg)
 
