@@ -2,7 +2,8 @@
 
 **Hi!** My name is Lauren & I am currently a third year Computer Science major. 
 
-I love living in La Jolla! ![](sunset.jpg)
+I love living in La Jolla! 
+![](sunset.jpg) ![](IMG_0309.jpg)
 
 ## My Summer Internship
 This past summer, I worked at Northrop Grumman as a *Software Engineer Intern*, and I created unit tests for one of their programs called BACN. This program 
