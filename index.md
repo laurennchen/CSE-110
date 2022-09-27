@@ -4,7 +4,9 @@
 
 I love living in La Jolla! It's so pretty here :sneezing_face: :brown_heart:
 
-![](sunset.jpg) ![](IMG_0309.jpg)
+![](sunset.jpg) 
+
+![](IMG_0309.jpg)
 
 ## My Summer Internship
 This past summer, I worked at Northrop Grumman as a *Software Engineer Intern*, and I created unit tests for one of their programs called BACN. This program 
