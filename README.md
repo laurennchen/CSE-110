@@ -2,6 +2,6 @@
 
 Lauren's User Page
 
-My GitHub pages site: https://github.com/laurennchen/CSE-110/blob/main/index.md
+My GitHub pages site: https://laurennchen.github.io/CSE-110/
 
 my favorite programming language is Java
